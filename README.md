@@ -14,7 +14,7 @@ Python Kullanılarak yapılmış basit bir oyun.
 Projeyi klonlayın
 
 ```bash
-  git clone https://github.com/fuekihigh/KillTheSith
+  git clone https://github.com/fuekisecurity/KillTheSith
 ```
 
 Proje dizinine gidin
@@ -32,5 +32,5 @@ Kodu çalıştırın
   
 ## Geri Bildirim
 
-Herhangi bir geri bildiriminiz varsa, lütfen fuekihigh Instagram adresinden bize ulaşın.
+Herhangi bir geri bildiriminiz varsa, lütfen fuekisecurity Instagram adresinden bize ulaşın.
 
